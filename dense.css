@@ -1,0 +1,27 @@
+html{
+
+font-size:100%;
+}
+body {
+margin:0;
+padding:0;
+}
+h1,h2,h3,h4{
+font-size:2em;
+font-weight:400;
+}
+h2{
+font-size:1.6em;
+}
+h3{
+font-size:1.4em;
+}
+h4{
+font-size:1.2em;
+}
+.padding{padding:8px;}
+.margin{margin:0px;}
+.padding-none{padding:0;}
+.margin-none{margin:0}
+.red-text{color:red}
+.red{background:red;color:white;}
